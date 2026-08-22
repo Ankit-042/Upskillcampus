@@ -1,0 +1,16 @@
+
+yolov8n.pt
+# Virtual Environments
+venv/
+venv311/
+
+# YOLO / Detection Output Logs & Models
+runs/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS & Editor files
+.vscode/
+.DS_Store
