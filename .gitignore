@@ -1,0 +1,28 @@
+# Virtual Environments
+venv/
+venv311/
+.venv/
+env/
+
+# Python Bytecode & Caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Large Datasets & Model Artifacts
+Dataset/
+*.weights
+*.bin
+*.onnx
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment Secrets
+.env
+*.log
